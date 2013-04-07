@@ -24,4 +24,4 @@ As well as binding to DOM elements you can bind a key to show all current shortc
 Examples
 ========
 
-Please see ...
+http://invalid-arg.github.io/examples/mousetrapBindElements.html
